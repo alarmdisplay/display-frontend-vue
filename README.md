@@ -1,6 +1,6 @@
 # Vue.js Display Frontend
 
-*This repository is now part of https://github.com/alarmdisplay/display*
+**This repository is now part of https://github.com/alarmdisplay/display**
 
 This is the web application, that runs on each Display unit.
 The app maintains a [Socket.IO](https://socket.io/) connection to the [Display Backend](https://github.com/alarmdisplay/display-backend) to get its configuration and data updates.
